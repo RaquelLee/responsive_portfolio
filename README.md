@@ -19,6 +19,3 @@ portfolio and skills grow!
 ## Credits
 
 [W3's HTML Validation Service](https://validator.w3.org/)
-
-
-## Screenshot
